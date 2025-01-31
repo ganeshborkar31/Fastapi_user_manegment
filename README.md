@@ -52,11 +52,21 @@ cd Fastapi_user_management
 
 ### 2. Set Up the Backend
 
-Navigate to the backend directory:
+- Navigate to the backend directory:
 ```bash
     cd backend
 ```
-Install Python dependencies:
+
+- Create virtual Enviroment:
+```
+    python3 -m venv .venv
+
+    source .venv/bin/activate     # for Linux
+            or
+    venv\Scripts\activate         # for Windows
+```
+
+- Install Python dependencies:
 ```bash
     pip install -r requirements.txt
 ```
@@ -166,12 +176,12 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-Contact
+- This project is licensed under the MIT License. 
+## Contact
 
 For questions or feedback, feel free to reach out:
 
-Your Name: your-email@example.com
+Your Name: ganeshborkar107@gmail.com
 
 GitHub: ganeshborkar31
 
