@@ -145,6 +145,10 @@ Fastapi_user_management/
 │   ├── package.json           # Node.js dependencies
 ```
 ## Screenshots
+### Frontend
+![Alt text](https://github.com/ganeshborkar31/fastapi_user_manegment/blob/main/screenshots/Screenshot%20from%202025-01-31%2020-03-44.png "Frontend")
+### Backend Apis
+![Alt text](https://github.com/ganeshborkar31/fastapi_user_manegment/blob/main/screenshots/Screenshot%20from%202025-01-31%2020-04-49.png "Backend")
 
 ## User Management App Contributing
 
