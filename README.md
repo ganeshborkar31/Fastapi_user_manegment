@@ -46,7 +46,7 @@ Before running the project, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Fastapi_user_management.git
+git clone https://github.com/ganeshborkar31/Fastapi_user_management.git
 cd Fastapi_user_management
 ```
 
